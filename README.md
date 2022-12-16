@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sidharthviz
-- 👀 I’m interested in Space & Time
+- 👀 I’m interested in Astronomy && Tech
 - 🌱 I’m currently learning (HOW TO LEARN ANYTHING)
 - 💞️ I’m looking to collaborate....
 - 📫 How to reach me ... @990.siddharthcristiano@gmail.com
