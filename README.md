@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidharthviz
+- 👋 Hi, I’m @siddharth Verma
 - 👀 I’m interested in Astronomy && Tech
 - 🌱 I’m currently learning (HOW TO LEARN ANYTHING)
 - 💞️ I’m looking to collaborate....
