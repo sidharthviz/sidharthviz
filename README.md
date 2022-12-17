@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Astronomy && Tech
 - 🌱 I’m currently learning (HOW TO LEARN ANYTHING)
-- 💞️ I’m looking to collaborate....
+- 💞️ I’m looking to collaborate and contribute to tech
 - 📫 How to reach me ... @990.siddharthcristiano@gmail.com
 
 [![Sidharthviz's github stats](https://github-readme-stats.vercel.app/api?username=sidharthviz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
