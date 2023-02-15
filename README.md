@@ -8,6 +8,13 @@
 
 ## 🌐 Socials:
 
+<h1 align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-verma-2695ab192/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sidharthviz)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sidharthviz.hashnode.dev/)
+ 
+ </h1>         
 
 
 
@@ -30,29 +37,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sidharthviz&icon=4&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-
-<!-- - 👀 I’m interested in Astronomy && Tech
-- 💞️ I’m looking to collaborate and contribute
-- 📫 How to reach me ... @990.siddharthcristiano@gmail.com
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddharth-verma-2695ab192/) 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=sidharthviz&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!---
