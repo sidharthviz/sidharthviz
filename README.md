@@ -1,5 +1,6 @@
+![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
+
 <h1 align="center">Hi 👋  I'm Siddharth Verma</h1>
-<h3 align="center">A passionate Full stack Dev</h3>
 
 
  🏹 I’m looking forward to collaborate and contribute <br>
