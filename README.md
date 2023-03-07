@@ -35,7 +35,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sidharthviz&icon=4&color=12)](https://visitcount.itsvg.in)
 
 
 
